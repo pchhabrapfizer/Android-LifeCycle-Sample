@@ -21,7 +21,7 @@ onStop()
 
 Called once the activity is no longer visible. Time or CPU intensive shut-down operations, such as writing information to a database should be down in the onStop() method. This method is guaranteed to be called as of API 11.
 
-![Alt text](activity_lifecycle.png?raw=true "Title")
+![Activity Lifecycle](activity_lifecycle.png?raw=true "Title")
 
 
 
