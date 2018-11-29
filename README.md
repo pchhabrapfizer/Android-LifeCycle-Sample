@@ -1,7 +1,10 @@
 # Android-LifeCycle
 
+This is a sample app that lets you get accustomed with how the lifecycle of Android ACtivity works.
+The app will fire local notifications on activity's state change.
 
-Activity Lifecycle
+
+More about Activity Lifecycle
 
 Activities have a predefined life-cycle and which certain methods are called.
 
